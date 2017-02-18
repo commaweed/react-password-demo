@@ -1,0 +1,8 @@
+# node
+node_modules/
+
+# ide stuff
+.project
+.settings/
+.sublime-project
+.tern-project
